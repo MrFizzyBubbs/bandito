@@ -1,8 +1,8 @@
 {
-  "name": "kol-js-starter",
+  "name": "bandito",
   "version": "1.0.0",
   "description": "Example package for KoLmafia TypeScript scripts.",
-  "main": "KoLmafia/scripts/kol-js-starter/main-script-name.js",
+  "main": "KoLmafia/scripts/bandito.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "yarn run build:types && yarn run build:js",
